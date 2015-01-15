@@ -1,0 +1,3 @@
+[submodule "fx-monochromelib"]
+	path = fx-monochromelib
+	url = https://gitorious.org/fx-community-libraries/fx-monochromelib.git
